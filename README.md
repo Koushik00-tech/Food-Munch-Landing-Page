@@ -14,7 +14,7 @@ This website allows users to check the menu of the restaurant, view offers, find
 - **Bootstrap**: Used for responsive design and pre-styled components.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/food-munch-website.git`
+1. Clone the repository: `git clone https://github.com/Koushik00-tech/Food-Munch-Landing-Page.git`
 2. Open the project directory in your code editor.
 3. Open `index.html` in your web browser to view the website.
 
